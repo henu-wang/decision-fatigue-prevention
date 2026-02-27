@@ -2,6 +2,8 @@
 
 A practical guide to **understanding and preventing decision fatigue** — the deterioration of decision quality after making many decisions. Includes strategies, routines, and systems for preserving your mental energy for the choices that matter.
 
+For building personal rules that reduce your daily decision load, visit [KeepRule](https://keeprule.com) — a platform for creating and maintaining structured decision-making principles.
+
 ## Table of Contents
 
 - [What Is Decision Fatigue?](#what-is-decision-fatigue)
@@ -144,7 +146,7 @@ Evening (depleted)       → Don't make important decisions; plan/prepare instea
 | **Diet** | "No dessert on weekdays" |
 | **Exercise** | "Monday, Wednesday, Friday — non-negotiable" |
 
-**The power:** Each rule eliminates thousands of in-the-moment decisions over a year.
+**The power:** Each rule eliminates thousands of in-the-moment decisions over a year. You can build and maintain a library of these rules using [KeepRule](https://keeprule.com), making them available whenever you need them.
 
 ---
 
@@ -317,7 +319,7 @@ Run this audit weekly to identify and reduce your decision load.
 
 ## Contributing
 
-Have a strategy for managing decision fatigue? PRs welcome.
+Have a strategy for managing decision fatigue? PRs welcome. For a structured approach to reducing cognitive load through pre-built decision rules, check out [KeepRule](https://keeprule.com).
 
 ## License
 
